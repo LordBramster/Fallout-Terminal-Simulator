@@ -1,10 +1,11 @@
-Fallout Terminal
-================
+![Fallout4](fallout4_banner1.png)
+
+
+# Fallout Terminal
 
 Simulates a computer terminal from fallout.
 
-Usage
-================
+## Usage
 
 ```
 python fallout.py
@@ -17,13 +18,11 @@ boot and login scripts
 python fallout.py hard
 ```
 
-Passwords
-================
+## Passwords
 
 To add your own lists of passwords, check out the passwords.txt file
 
-Notes
-================
+## Notes
 
 Check out cool-retro-term
 (https://github.com/Swordfish90/cool-retro-term) to make your terminal
